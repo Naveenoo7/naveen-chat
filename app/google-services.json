@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326782682936",
+    "firebase_url": "https://naveenchat-3788f.firebaseio.com",
+    "project_id": "naveenchat-3788f",
+    "storage_bucket": "naveenchat-3788f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326782682936:android:152bf775283e50d7a5a3cd",
+        "android_client_info": {
+          "package_name": "com.example.naveenchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326782682936-i82j4iiq1mvvh963ssba5hrsuo1g7j6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveenchat",
+            "certificate_hash": "49ac4222d65e68f3e48231b90e8d47e55ebc6dd4"
+          }
+        },
+        {
+          "client_id": "326782682936-tqrrv0e9ipe02jmpv6hevridvrf10j5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHwtZOaCZP5ZejTTiA_LGxYfIhODKUew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326782682936-tqrrv0e9ipe02jmpv6hevridvrf10j5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
